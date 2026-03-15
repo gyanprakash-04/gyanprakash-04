@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Gyan Prakash</h1>
+<h1 align="center">Hi 👋, I'm Gyan Prakash Sharma</h1>
 <h3 align="center">Aspiring Data Analyst | Turning Data into Insights</h3>
 
 ---
